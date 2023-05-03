@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Tests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>wewee</Title>
+  <Author>admin</Author>
+  <Description>test</Description>
+  <Info>inf</Info>
+  <MaxPoint>100</MaxPoint>
+  <MinPass>50</MinPass>
+  <ExecutionTime>2</ExecutionTime>
+  <list_Questions>
+    <Questions>
+      <Question_Text>qwqwqw</Question_Text>
+      <point>1</point>
+      <image>C:\Users\Misha\Desktop\Tests\Project1\Test\Photo\2.png</image>
+      <list_Answers>
+        <Answers>
+          <Answer_Text>dsdsdsd</Answer_Text>
+          <IsRight>true</IsRight>
+        </Answers>
+        <Answers>
+          <Answer_Text>sdsdsd</Answer_Text>
+          <IsRight>false</IsRight>
+        </Answers>
+      </list_Answers>
+    </Questions>
+  </list_Questions>
+</Tests>

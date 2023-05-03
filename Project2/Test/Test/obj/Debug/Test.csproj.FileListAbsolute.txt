@@ -1,0 +1,73 @@
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\bin\Debug\Test.exe.config
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\bin\Debug\Test.exe
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\bin\Debug\Test.pdb
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.exe
+C:\Users\gorsk\OneDrive\Робочий стіл\Project\Test\Test\obj\Debug\Test.pdb
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\bin\Debug\Test.exe.config
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\bin\Debug\Test.exe
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\bin\Debug\Test.pdb
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.exe
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.pdb
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.QuestionForm.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project_bk\Test\Test\obj\Debug\Test.AnswerForm.resources
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\bin\Debug\Test.exe
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\bin\Debug\Test.pdb
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.AnswerForm.resources
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.QuestionForm.resources
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.exe
+C:\Users\Misha\Desktop\Program\Project_bk\Test\Test\obj\Debug\Test.pdb
+C:\Users\Misha\Desktop\Project2\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Misha\Desktop\Project2\Test\Test\bin\Debug\Test.exe
+C:\Users\Misha\Desktop\Project2\Test\Test\bin\Debug\Test.pdb
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.exe
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.pdb
+C:\Users\Misha\Desktop\Project2\Test\Test\obj\Debug\Test.ResultForm.resources
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\bin\Debug\Test.exe
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\bin\Debug\Test.pdb
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.ResultForm.resources
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.exe
+C:\Users\Misha\Desktop\Tests\Project2\Test\Test\obj\Debug\Test.pdb
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\bin\Debug\Test.exe.config
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\bin\Debug\Test.exe
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\bin\Debug\Test.pdb
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.ResultForm.resources
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.exe
+C:\Users\gorsk\OneDrive\Робочий стіл\Project2\Test\Test\obj\Debug\Test.pdb
